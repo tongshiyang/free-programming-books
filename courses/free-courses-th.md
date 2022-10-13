@@ -1,16 +1,18 @@
 ### Index
 
 * [C](#c)
-* [C#](#c-sharp)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Git](#git)
+* [HTML and CSS](#html-and-css)
 * [JavaScript](#javascript)
-  * [Angular.js](#angularjs)
-  * [NodeJS](#nodejs)
-  * [React](#react)
-  * [Vue.js](#vuejs)
+    * [NodeJS](#nodejs)
+    * [React](#react)
+    * [Vue.js](#vuejs)
 * [Python](#python)
-* [Ruby](#Ruby)
+* [Ruby](#ruby)
+* [TypeScript](#typescript)
+    * [Angular](#angular)
 
 
 ### C
@@ -18,12 +20,12 @@
 * [ภาษา C](http://marcuscode.com/lang/c) - MarcusCode
 
 
-### C-Sharp
+### <a id="csharp"></a>C\#
 
 * [ภาษา C#](http://marcuscode.com/lang/csharp) - MarcusCode
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [ภาษา C++](http://marcuscode.com/lang/cpp) - MarcusCode
 
@@ -35,16 +37,18 @@
 * [สอน git และ github เบื้องต้น](https://www.youtube.com/playlist?list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX) - prasertcbs
 
 
+### HTML and CSS
+
+* [คอร์สเรียนภาษา CSS](https://youtube.com/playlist?list=PLtfWtWKHvrn8GxLV6Sws3cAZgmvUynxwz) - BARCODE
+* [ภาษา HTML](https://youtube.com/playlist?list=PLxN7ZT-opr0KPGJPlh6DhZrz0z031ZObQ) - nana สาระ
+
+
 ### JavaScript
 
 * [จาวาสคริปต์เบื้องต้น](https://phyblas.hinaboshi.com/saraban/javascript) - Phyblas
 * [ภาษา JavaScript](http://marcuscode.com/lang/javascript) - MarcusCode
+* [สอนพื้นฐาน JavaScript ทั้งหมดแบบจบในคลิปเดียว !!](https://www.youtube.com/watch?v=PGZ7QiKdumo) - BorntoDev
 * [สอน JavaScript](https://www.youtube.com/playlist?list=PL_xSQKvnccplgKmdtqizMGRh11witheTM) - Zinglecode
-
-
-#### Angular.js
-
-* [มือใหม่หัดใช้ Angular](https://priefydev.wordpress.com/tag/angular/) - Priefy Dev.
 
 
 #### NodeJS
@@ -55,6 +59,7 @@
 
 #### React
 
+* [สอน React](https://www.youtube.com/playlist?list=PL_xSQKvnccpn-C2fZNJtCykO24yqFWkDn) - Zinglecode
 * [สอน React.JS Tutorial](https://www.youtube.com/playlist?list=PLjPfp4Ph3gBo5SmWJXwv4oKDfeTXA7xgw) - CMDev
 
 
@@ -75,3 +80,13 @@
 ### Ruby
 
 * [สอน Ruby on Rails ตั้งแต่ 0~99](https://www.youtube.com/playlist?list=PLXm-UJjVcJCPxawSeVSYP1bsP_0_iMpQJ) - Geekstart
+
+
+### TypeScript
+
+* [สอน TypeScript Basic to Advance](https://www.youtube.com/playlist?list=PLEE74DyIkwEn4NOiqo43uxvSzyE0eyUQj) - Kong Ruksiam (YouTube)
+
+
+#### Angular
+
+* [มือใหม่หัดใช้ Angular](https://priefydev.wordpress.com/tag/angular/) - Priefy Dev.

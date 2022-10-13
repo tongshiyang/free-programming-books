@@ -1,9 +1,12 @@
 ### Index
 
-* [Angular](#angular)
+* [APL](#apl)
+* [Assembly](#assembly)
+* [C](#c)
+* [C#](#csharp)
+* [C++](#cpp)
 * [ClojureScript](#clojurescript)
 * [Crystal](#crystal)
-* [CSS](#css)
 * [Dart](#dart)
 * [Docker](#docker)
 * [Elm](#elm)
@@ -12,12 +15,15 @@
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
+* [HTML and CSS](#html-and-css)
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [.Net](#dotnet)
+* [Nim](#nim)
 * [Node.js](#nodejs)
 * [OCaml](#ocaml)
 * [Perl](#perl)
@@ -26,20 +32,55 @@
 * [R](#r)
 * [React](#react)
 * [Redis](#redis)
+* [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [RxJS](#rxjs)
 * [Scala](#scala)
+* [Scratch](#scratch)
+* [Solidity](#solidity)
 * [SQL](#sql)
 * [Svelte](#svelte)
 * [Swift](#swift)
 * [TypeScript](#typescript)
+    * [Angular](#angular)
+* [V](#v)
 
 
-### Angular
+### APL
 
-* [Plunker](http://plnkr.co)
-* [StackBlitz](https://stackblitz.com/fork/angular)
+* [APLgolf](https://razetime.github.io/APLgolf)
+* [ngn/apl](https://abrudz.github.io/ngn-apl)
+* [TryAPL](https://tryapl.org)
+* [TryAPL Mini](https://janiczek.github.io/tryapl-elm)
+
+
+### Assembly
+
+* [Educational Visual CPU Simulator](https://github.com/Belotti01/CPU-Visual-Simulator) - Renato Cortinovis, Nicola Preda, Jonathan Cancelli, Alessandro Belotti, Davide Riva (JAVA, JAR)
+
+
+### <a id="c"></a>C
+
+* [InterviewBit - Online C Compiler IDE](https://www.interviewbit.com/online-c-compiler/)
+* [JDoodle - Online C Compiler IDE](https://www.jdoodle.com/c-online-compiler/)
+* [Programiz - Online C Compiler](https://www.programiz.com/c-programming/online-compiler/)
+* [SoloLearn](https://code.sololearn.com/c)
+
+
+### <a id="csharp"></a>C\#
+
+* [SoloLearn](https://code.sololearn.com/csharp)
+
+
+### <a id="cpp"></a>C++
+
+* [Coding Blocks](https://ide.codingblocks.com)
+* [Coding Minutes](https://ide.codingminutes.com)
+* [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/)
+* [LabStack](https://code.labstack.com/cpp)
+* [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)
+* [SoloLearn](https://code.sololearn.com/cpp)
 
 
 ### ClojureScript
@@ -53,15 +94,6 @@
 * [Compile & run code in Crystal](https://play.crystal-lang.org/#/cr)
 
 
-### CSS
-
-* [CodePen](https://codepen.io)
-* [CSSdeck](http://cssdeck.com)
-* [CSSdesk](http://cssdesk.com)
-* [Dabblet](http://dabblet.com)
-* [Flexy Boxes](http://the-echoplex.net/flexyboxes/)
-
-
 ### Dart
 
 * [DartPad](https://dartpad.dev)
@@ -69,7 +101,6 @@
 
 ### Docker
 
-* [Katakoda](https://www.katacoda.com/courses/docker/playground)
 * [Play with Docker](https://labs.play-with-docker.com)
 
 
@@ -98,11 +129,22 @@
 ### Go
 
 * [Go Playground](https://play.golang.org)
+* [SoloLearn](https://code.sololearn.com/go)
 
 
 ### Haskell
 
 * [Try Haskell](https://www.tryhaskell.org)
+
+
+### HTML and CSS
+
+* [CodePen](https://codepen.io)
+* [CSSdeck](https://cssdeck.com)
+* [Dabblet](https://dabblet.com)
+* [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
+* [SoloLearn](https://code.sololearn.com/web#css)
+* [Tailwind Play](https://play.tailwindcss.com)
 
 
 ### Ionic
@@ -112,8 +154,12 @@
 
 ### Java
 
+* [InterviewBit - Online Java Compiler IDE](https://www.interviewbit.com/online-java-compiler/)
+* [JDoodle - Online Java Compiler Advanced IDE](https://www.jdoodle.com/online-java-compiler-ide/)
+* [JDoodle - Online Java Compiler IDE](https://www.jdoodle.com/online-java-compiler/)
+* [Programiz - Online Java Compiler](https://www.programiz.com/java-programming/online-compiler/)
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
-* [SoloLearn](https://code.sololearn.com/#java)
+* [SoloLearn](https://code.sololearn.com/java)
 
 
 ### JavaScript
@@ -121,70 +167,97 @@
 * [CodePen](https://codepen.io)
 * [CodeSandbox.io](https://codesandbox.io)
 * [Esfiddle](https://esfiddle.net)
-* [JSBin](http://jsbin.com)
-* [JSFiddle](http://jsfiddle.net)
-* [Plunker](http://plnkr.co)
-* [SoloLearn](https://code.sololearn.com/#html)
+* [Grasshopper](https://grasshopper.app) *(Google account required)*
+* [Hello Website - (Glitch)](https://glitch.new/website) *(Account requested, not required)*
+* [InterviewBit - Online JavaScript Compiler IDE](https://www.interviewbit.com/online-javascript-compiler/)
+* [JSBin](https://jsbin.com)
+* [JSFiddle](https://jsfiddle.net)
+* [OneCompiler](https://onecompiler.com/javascript)
+* [Plunker](https://plnkr.co)
+* [SoloLearn](https://code.sololearn.com/web#javascript)
+
+
+#### AngularJS
+
+> :information_source: See also &#8230; [Angular](#angular)
+
+* [StackBlitz](https://stackblitz.com/fork/angularjs)
 
 
 ### Kotlin
 
 * [Kotlin](https://play.kotlinlang.org)
 * [Kotlin Playground](https://developer.android.com/training/kotlinplayground)
+* [SoloLearn](https://code.sololearn.com/kotlin)
 
 
 ### Kubernetes
 
-* [Katakoda](https://www.katacoda.com/courses/kubernetes/playground)
 * [Play with Kubernetes](https://labs.play-with-k8s.com)
 
 
-### <a name="dotnet"></a>.NET
+### <a id="dotnet"></a>.NET
 
 * [.NET Fiddle](https://dotnetfiddle.net)
 
 
+### Nim
+
+* [Nim Playground](https://play.nim-lang.org) - nim-lang.org
+
+
 ### NodeJS
 
-* [Ideone](http://ideone.com)
+* [Hello Node - (Glitch)](https://glitch.new/node) *(Account requested, not required)*
+* [Ideone](https://ideone.com)
+* [SoloLearn](https://code.sololearn.com/nodejs)
 
 
 ### OCaml
 
+* [OCaml Playground](https://ocaml.org/play)
 * [Try OCaml](https://try.ocamlpro.com)
 
 
 ### Perl
 
-* [Perl](http://tryperl.pl)
+* [Perl](https://tryperl.pl)
 
 
 ### PHP
 
-* [Codepad](http://codepad.org)
+* [Codepad](http://codepad.org/?lang=PHP)
 * [ExtendsClass](https://extendsclass.com/php.html)
-* [PHPFiddle](http://phpfiddle.org)
+* [PHPFiddle](https://phpfiddle.org)
 * [PHPTester](http://phptester.net)
+* [SoloLearn](https://code.sololearn.com/php)
 
 
 ### Python
 
-* [Codepad](http://codepad.org)
+* [Codepad](http://codepad.org/?lang=Python)
+* [InterviewBit - Online Python Compiler IDE](https://www.interviewbit.com/online-python-compiler/)
+* [Programiz.com](https://www.programiz.com/python-programming/online-compiler/)
+* [Pynative.com](https://pynative.com/online-python-code-editor-to-execute-python-code/)
 * [Python Trinket](https://trinket.io/python)
+* [Python Tutor](https://pythontutor.com)
 * [Python.org Shell](https://www.python.org/shell)
-* [Repl.it - NiceDualPoin](https://repl.it/repls/NiceDualPoint#main.py)
-* [SoloLearn](https://code.sololearn.com/#py)
+* [Repl.it - NiceDualPoint](https://repl.it/repls/NiceDualPoint#main.py)
+* [SoloLearn](https://code.sololearn.com/python)
+* [Try Python](https://trypython.jcubic.pl) - Jakub T. Jankiewicz
 
 
 ### R
 
 * [R-Fiddle](http://www.r-fiddle.org)
 * [Rextester](https://rextester.com/l/r_online_compiler)
+* [SoloLearn](https://code.sololearn.com/r)
 
 
 ### React
 
 * [CodeSandbox.io](https://codesandbox.io)
+* [Hello React - (Glitch)](https://glitch.new/react) *(Account requested, not required)*
 * [jscomplete](https://jscomplete.com/playground)
 * [StackBlitz](https://stackblitz.com/fork/react)
 
@@ -194,16 +267,24 @@
 * [Try Redis](https://try.redis.io)
 
 
+### Regular Expressions
+
+* [iHateRegex: regex for playground](https://ihateregex.io/playground) - Geon George
+* [Regex Tester and Debugger Online - Javascript, PCRE, PHP](https://www.regextester.com) - Dan's Tools
+* [Regex101: build, test, and debug regex](https://regex101.com) - Firas Dib (regex101.com)
+* [RegExr: Learn, Build, \& Test RegEx](https://regexr.com) - GSkinner Inc.
+
+
 ### Ruby
 
-* [Codepad](http://codepad.org)
-* [Sololearn](https://code.sololearn.com/#rb)
+* [Codepad](http://codepad.org/?lang=Ruby)
+* [SoloLearn](https://code.sololearn.com/ruby)
 * [TryRuby](https://try.ruby-lang.org)
 
 
 ### Rust
 
-* [Rust Playground](http://play.integer32.com)
+* [Rust Playground](https://play.rust-lang.org)
 
 
 ### RxJS
@@ -214,8 +295,18 @@
 ### Scala
 
 * [ScalaFiddle.io](https://scalafiddle.io)
-* [ScalaFiddle.net](http://scalafiddle.net)
 * [Scastie](https://scastie.scala-lang.org)
+
+
+### Scratch
+
+* [Scratch.mit.edu](https://scratch.mit.edu/create)
+
+
+### Solidity
+
+* [ETH.Build](https://eth.build) - Austin Thomas Griffith
+* [Remix IDE](https://remix.ethereum.org) - ethereum.org
 
 
 ### SQL
@@ -233,6 +324,7 @@
 ### Swift
 
 * [Online Swift Playground](http://online.swiftplayground.run)
+* [SoloLearn](https://code.sololearn.com/swift)
 
 
 ### TypeScript
@@ -241,4 +333,14 @@
 * [StackBlitz](https://stackblitz.com/fork/typescript)
 
 
+### V
 
+* [V Playground](https://play.vlang.io) - vlang.io
+
+
+#### Angular
+
+> :information_source: See also &#8230; [AngularJS](#angularjs)
+
+* [Plunker](https://plnkr.co)
+* [StackBlitz](https://stackblitz.com/fork/angular)

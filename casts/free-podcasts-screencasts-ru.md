@@ -8,8 +8,9 @@
 * [Gulp](#gulp)
 * [Haskell](#haskell)
 * [Java](#java)
-  * [Spring](#spring)
+    * [Spring](#spring)
 * [JavaScript](#javascript)
+* [.NET](#net)
 * [Node.js](#nodejs)
 * [PHP](#php)
 * [QA](#qa)
@@ -92,6 +93,13 @@
 * [Webstandards](https://soundcloud.com/web-standards) (Podcast)
 
 
+### .NET
+
+* [DotNet & More](https://more.dotnet.ru) - Александр Кугушев и Артём Акуляков (Podcast)
+* [RadioDotNet](https://radio.dotnet.ru) - Анатолий Кулаков и Игорь Лабутин (Podcast)
+* [Solo on .NET](https://youtube.com/playlist?list=PLAFX7TSEV7SOqEQKnrrFiV7bUY8kN5Qof) - Дмитрий Нестерук (Podcast)
+
+
 ### Node.js
 
 * [Скринкаст Node.JS](https://learn.javascript.ru/screencast/nodejs) - Илья Кантор (Screencast)
@@ -129,5 +137,3 @@
 ### Webpack
 
 * [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack) - Илья Кантор (Screencast)
-
-
