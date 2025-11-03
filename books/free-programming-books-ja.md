@@ -7,6 +7,7 @@
     * [ガベージコレクション](#%e3%82%ac%e3%83%99%e3%83%bc%e3%82%b8%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3)
     * [グラフィックスプログラミング](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%82%b9%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0)
     * [グラフィックユーザーインターフェイス](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%95%e3%82%a7%e3%82%a4%e3%82%b9)
+    * [ゲーム開発](#%e3%82%b2%e3%83%bc%e3%83%A0%e9%96%8b%e7%99%ba)
     * [コンテナ](#%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A)
     * [セキュリティ](#%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3)
     * [その他の話題](#%e3%81%9d%e3%81%ae%e4%bb%96%e3%81%ae%e8%a9%b1%e9%a1%8c)
@@ -28,7 +29,6 @@
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
-* [Coq](#coq)
 * [D](#d)
 * [Elixir](#elixir)
 * [Erlang](#erlang)
@@ -61,12 +61,14 @@
 * [OCaml](#ocaml)
 * [Perl](#perl)
 * [PHP](#php)
+    * [Yii](#yii)
 * [PowerShell](#powershell)
 * [Processing](#processing)
 * [Prolog](#prolog)
 * [Python](#python)
     * [Flask](#flask)
 * [R](#r)
+* [Rocq Prover](#rocq-prover)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Sather](#sather)
@@ -124,6 +126,15 @@
 #### グラフィックユーザーインターフェイス
 
 * [Qtプログラミング入門](https://densan-labs.net/tech/qt) - @nishio_dens
+
+
+#### ゲーム開発
+
+* [C# スタイルガイドを作成する：拡張性のある、よりクリーンなコードを書く](https://unity3d.jp/game/game-ebooks/create-code-c-sharp-style-guide-e-book/) - Unity Technologies (HTML & PDF)
+* [C# スタイルガイドを使用して、クリーンでスケーラブルなゲームコードを書く - Unity 6版](https://unity3d.jp/game/create-code-c-sharp-style-guide-e-book-unity-6/) - Unity Technologies (HTML & PDF)
+* [ゲームプログラミングのパターンを活用してコードをレベルアップ](https://unity3d.jp/game/game-ebooks/level-up-your-code-with-game-programming-patterns/) - Unity Technologies (HTML & PDF)
+* [ゲームレベルデザイン入門](https://unity3d.jp/game/game-ebooks/game-level-design/) - Unity Technologies (HTML & PDF)
+* [デザインパターンとSOLIDでコードをレベルアップ](https://unity3d.jp/game/design-patterns-solid-ebook/) - Unity Technologies (HTML & PDF)
 
 
 #### コンテナ
@@ -293,11 +304,6 @@
 * [正規表現リファレンス（CoffeeScript)](https://kyu-mu.net/coffeescript/regexp) - 飯塚直
 
 
-### Coq
-
-* [ソフトウェアの基礎](http://proofcafe.org/sf) - Benjamin C. Pierce, Chris Casinghino, Michael Greenberg, Vilhelm Sjöberg, Brent Yorgey, `trl:` 梅村晃広, `trl:` 片山功士, `trl:` 水野洋樹, `trl:` 大橋台地, `trl:` 増子萌, `trl:` 今井宜洋
-
-
 ### D
 
 * [D言語基礎文法最速マスター](https://gist.github.com/repeatedly/2470712) - Masahiro Nakagawa
@@ -430,7 +436,7 @@
 #### React
 
 * [React 0.13 日本語リファレンス](https://js.studio-kingdom.com/react) - `trl:` @tomof
-* [チュートリアル：React の導入](https://ja.reactjs.org/tutorial/tutorial.html) - Facebook Inc.
+* [クイックスタート](https://ja.react.dev/learn) - Facebook Inc.
 
 
 #### Svelte
@@ -535,6 +541,11 @@
 * [PSR-2 – コーディングスタイルガイド](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
 
 
+#### Yii
+
+* [Yii 2.0 決定版ガイド](https://www.yiiframework.com/doc/download/yii-guide-2.0-ja.pdf) - Yii Software (PDF)
+
+
 ### PowerShell
 
 * [PowerShell スクリプト](https://docs.microsoft.com/ja-jp/powershell/scripting/overview?view=powershell-6) - Microsoft Docs
@@ -593,6 +604,11 @@
 * [Rによる統計解析の基礎](https://minato.sip21c.org/statlib/stat.pdf) - 中澤港 (PDF)
 * [Rによる保健医療データ解析演習](http://minato.sip21c.org/msb/medstatbook.pdf) - 中澤港 (PDF)
 * [無料統計ソフトRで心理学](http://blue.zero.jp/yokumura/Rhtml/Haebera2002.html) - 奥村泰之
+
+
+### Rocq Prover
+
+* [ソフトウェアの基礎](http://proofcafe.org/sf) - Benjamin C. Pierce, Chris Casinghino, Michael Greenberg, Vilhelm Sjöberg, Brent Yorgey, `trl:` 梅村晃広, `trl:` 片山功士, `trl:` 水野洋樹, `trl:` 大橋台地, `trl:` 増子萌, `trl:` 今井宜洋
 
 
 ### Ruby

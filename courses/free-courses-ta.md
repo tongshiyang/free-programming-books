@@ -1,5 +1,6 @@
 ### Index
 
+* [AI](#ai)
 * [Android](#android)
 * [Bash and Shell](#bash-and-shell)
 * [C](#c)
@@ -22,6 +23,12 @@
 * [Solidity](#solidity)
 * [SQL](#sql)
 * [Swift](#swift)
+
+
+### AI
+
+* [AI Tutorials in Tamil](https://www.youtube.com/playlist?list=PLLHRrAfRqTbPbodOKyV6QeEOMx8KaBiSm) - Endless Knowledge
+* [Artificial Intelligence Course for Beginners in Tamil](https://www.youtube.com/playlist?list=PLMn73l82HB5B9oMtKeAexWVdXLRL_BChV) - Hope Artificial Intelligence
 
 
 ### Android
@@ -50,6 +57,7 @@
 ### <a id="dsa"></a>Data Structures and Algorithms
 
 * [தமிழில் Data Structures and Algorithms](https://youtube.com/playlist?list=PL_UqaR55i1797oG0BL0wtxdPpa_NYNFLz) - CSE Tamila by Eezytutorials
+* [Data Structures & Algorithms Python](https://www.youtube.com/playlist?list=PLVkDztYhxUGH9AubH9hLy_JYam8EZ9VKs) - Code Meal
 * [Data Structures and Algorithms in Java](https://www.youtube.com/playlist?list=PLYM2_EX_xVvX7_AmNY-Deacp3rT3MIXnE) - Logic First Tamil
 
 
@@ -168,6 +176,7 @@
 ### SQL
 
 * [Oracle SQL - தமிழில்](https://www.youtube.com/playlist?list=PLsphD3EpR7F-u4Jjp_3fYgLSsKwPPTEH4) - NIC IT Academy
+* [SQL For Beginners - Tamil](https://www.youtube.com/playlist?list=PLVkDztYhxUGEP7Yrw2voVWhcxILiLCwOt) - Code Meal
 * [SQL in Tamil (தமிழில் SQL)](https://www.youtube.com/playlist?list=PLgWpUXNR_WCd-oMh-n6LhRYyNZjiiPVGm) - Payilagam
 * [SQL in Tamil for Beginners](https://www.youtube.com/playlist?list=PLYM2_EX_xVvUBh28ZT2i-jH7kBkTfB_W2) - Logic First Tamil
 

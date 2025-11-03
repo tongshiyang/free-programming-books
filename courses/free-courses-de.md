@@ -47,6 +47,7 @@
 
 * [CSS lernen](https://youtube.com/playlist?list=PLuBK_vNnGp8ANspdZh_aRAa1InIhFlgm_) - NEW - Vadim
 * [HTML Tutorial Deutsch](https://youtube.com/playlist?list=PLnlqg5o1zhnhVI3t1iTE2oO4QSGpu7EMx) - Markus Reichl
+* [HTML Tutorial Deutsch](https://youtube.com/playlist?list=PL_pqkvxZ6ho3Dho4bGSJfEXn38fI9VuC7) - Programmieren Starten
 
 
 #### Bootstrap
@@ -75,6 +76,7 @@
 ### Künstliche Intelligenz
 
 * [Elements of AI](https://www.elementsofai.de)
+* [Generative AI für Anfänger .NET - Ein Kurs](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/de) - Microsoft (GitHub)
 
 
 ### Python

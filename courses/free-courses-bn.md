@@ -1,9 +1,11 @@
 ### Index
 
 * [Android](#android)
+* [Assembly Language](#assembly-language)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Cloud Computing](#cloud-computing)
 * [Competitive Programming](#competitive-programming)
 * [Dart](#dart)
 * [Docker](#docker)
@@ -15,8 +17,10 @@
     * [Tailwind](#tailwind)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
+    * [Spring Boot](#spring-boot)
 * [JavaScript](#javascript)
     * [Angular](#angular)
+    * [Electron](#electron)
     * [jQuery](#jquery)
     * [Next.js](#nextjs)
     * [Node.js](#nodejs)
@@ -27,14 +31,17 @@
 * [Linux](#linux)
 * [MongoDB](#mongodb)
 * [MySQL](#mysql)
+* [Operating Systems](#operating-systems)
 * [PHP](#php)
     * [Laravel](#laravel)
+* [PostgreSQL](#postgresql)
 * [Programming paradigms](#programming-paradigms)
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
 * [Scratch](#scratch)
 * [Shell scripting](#shell-scripting)
+* [Software Architecture](#software-architecture)
 * [Swift](#swift)
 * [TypeScript](#typescript)
 * [WordPress](#wordpress)
@@ -47,6 +54,11 @@
 * [Android SQLite Database Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oJBRutwsFgUKrKJCjv9K3p) - Anisul Islam
 * [Android Tutorials Material Design](https://www.youtube.com/playlist?list=PLgH5QX0i9K3ru-TfN-YsRWKe4EEOLrWjn) - Anisul Islam
 * [Java, OOP & Android tutorials for beginners in Bengali](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkmELwlSouvJtROQ6MWRbIH) - Zulkarnine Mahmud
+
+
+### Assembly Language
+
+* [Assembly Language Bangla Tutorial](https://www.youtube.com/playlist?list=PLEYW3pZS6IQ8UMvusEVnIJ2dDieXKyKRM) - Maruf Sarker
 
 
 ### C
@@ -73,6 +85,12 @@
 * [C++ Bangla Tutorial for Beginners - 2022](https://www.youtube.com/playlist?list=PLeqnvPK4PpyWsjZvgLTRcc-dkPQXc8SHc) - Shikkhangon BD
 * [C++ STL (Bangla)](https://youtube.com/playlist?list=PLgLCjVh3O6Sgux985GYG22xkFt9z9Sq0_) - LoveExtendsCode
 * [Object Oriented C++ \| Bangla Tutorial](https://www.youtube.com/playlist?list=PLy7uM3PHzMF1hnqhFGE4_A8qTUfFmZ_3y) - Online School
+* [Standard Template Library of C++ (STL)](https://www.youtube.com/playlist?list=PLoa_roVVsxA0D1Kv_T7rbGHtSdYIUo4f5) - CPS Academy
+
+
+### Cloud Computing 
+
+* [(Bangla) Cloud computing tutorial series : Learn and enjoy AWS Azure and other cloud technologies like never before](https://www.youtube.com/playlist?list=PLEYpvDF6qy8YfccPez3rkafASd9PZV3te) - Foyzul Karim
 
 
 ### Competitive Programming
@@ -170,7 +188,13 @@
 * [Java Bangla Tutorials \| CORE Java \| Complete OOP](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa) - Anisul Islam
 * [Java Basic Syntax Bangla Tutorial](https://www.youtube.com/playlist?list=PLdl6zXgLsy3xCae1uL6rJ8Ay9sIiyBy5I) - Bangla Coding Tutor
 * [Java Course! Full Course Bangla](https://www.youtube.com/playlist?list=PLysy6TYSMvpJmMN0ElbC936RmmFustDiy) - Online Course
+* [Java For Beginners](https://www.youtube.com/playlist?list=PLvr0Ht-XkB_0KC2-N3hv0V3ib-Z6wKkAy) - Learn With Tawhid
 * [Java Swing Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l) - Anisul Islam
+
+
+#### Spring Boot
+
+* [Spring Boot for Beginners](https://www.youtube.com/watch?v=ELL1Pwd3W28) - Yeamim Hossain Sajid
 
 
 ### JavaScript
@@ -197,6 +221,11 @@
 * [Angular Tutorials for Beginners in Bangla](https://www.youtube.com/playlist?list=PLDP_-KW5VxNRqG7317GyBlOwvtxP6d-LE) - miTechSoln
 * [AngularJS bangla tutorial](https://www.youtube.com/playlist?list=PLZURtcoL43SUpJj_n_yGoqM4RMqQoBbst) - tutplus24
 * [Angularjs bangla tutorial basic](https://www.youtube.com/playlist?list=PLbC4KRSNcMnr2ZFQne_jotsiX9hGwLJHG) - Learn Hunter
+
+
+#### Electron
+
+* [Electron JS Bangla Tutorials](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDgr7KreI5PaVZuG8Sx3L2c&si=FOsXyD-fC87a45YJ) - Stack Learner
 
 
 #### jQuery
@@ -241,6 +270,7 @@
 
 * [Introduction to Vue.js in Bangla বাংলা  with a full Project - Vue Crash Course](https://www.youtube.com/watch?v=iIvN7upsLoA) - Learn with Sumit
 * [Vue JS 3 Bangla Tutorial](https://www.youtube.com/playlist?list=PLZ8kLhUbDAhADR0nUr2rwhOD0smxVZX-x) - Mamunur Rashid
+* [Vue js in Bangla. Latest Version with Projects  (বাংলায় Vue js শিখুন)](https://www.youtube.com/playlist?list=PL6f7IPPkpDKn0iI2Y5dnEgyrEqw2VvJ2P) - Rafee Amin
 
 
 ### Kotlin
@@ -273,6 +303,12 @@
 * [MySQL Database Bangla Tutorials (HSC student / Anyone)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD) - Anisul Islam
 
 
+### Operating Systems
+
+* [Operating System](https://www.youtube.com/playlist?list=PLgrAmbRAezujiknEO3sqpyCC4K3IgS4KU) - Farhan Hossan
+* [Operating System (OS) Bangla Tutorial (কমপ্লিট কোর্স)](https://www.youtube.com/playlist?list=PLncy2sD7w4Yr3ZbiP_ipAjgjDRn86N_tT) - Lecturelia - CSE Bangla Tutorial
+
+
 ### PHP
 
 * [PHP All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCFLIrGA1GaxacvPTDQcsMV) - Stack Learner
@@ -283,7 +319,13 @@
 
 #### Laravel
 
-* [Restapi Bangla tutorial \| Laravel & Lumen Api development](https://www.youtube.com/playlist?list=PLbC4KRSNcMnoQONzuNtFlhEzegTYadoBY) - Learn Hunter
+* [laravel 10 bangla tutorial latest version \| laravel basic to advanced from official documentation](https://www.youtube.com/playlist?list=PLbC4KRSNcMnrY78JyoI8c0pk-reuSw8ff) - Learn Hunter
+* [Laravel Queue Tutorial \| Basic to Advanced ](https://www.youtube.com/playlist?list=PLVWmHBgSb-u8slYKd7B1dM4HpGwRX6B1X) - Programming with CodeSteps
+
+
+### PostgreSQL
+
+* [PostgreSQL Full Course In Bangla 2025](https://www.youtube.com/playlist?list=PLnAO8EqszeI_OihleIZQf_Nz2jx8J7fa5) - Nexist
 
 
 ### Programming paradigms
@@ -297,8 +339,7 @@
 ### Python
 
 * [Bangla Python Tutorial for Beginners](https://www.youtube.com/playlist?list=PLlBKlxyCgmsCYJLq9qc5QzaU-oBFJN79B) - Niamul Hasan (StartBit)
-* [Python All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ) - Stack Learner
-* [Python Bangla Tutorial & Data Science Full Course](https://www.youtube.com/playlist?list=PLmZYUigljiyc-tf7oMmM-s832ibhGxTpT) - Study Mart
+* [Python All You Need to Know / stack learner](https://www.youtube.com/playlist?list=PL3-qJK8D7YirnPBwmPNRyczdVOEwJbtLW) - Stack Learner
 * [Python Bangla Tutorial 2023](https://www.youtube.com/playlist?list=PLNMnAEqLBwmpR8JDBOEl0jrzmH1vPnO7v) - Hablu Programmer
 * [Python Bangla Tutorials for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN) - Anisul Islam
 * [Python For Beginners - Bangla Tutorials](https://www.youtube.com/playlist?list=PLvr0Ht-XkB_0V-mjAYlfgk-3VRmFarlzC) - Learn With Tawhid
@@ -318,6 +359,7 @@
 #### Flask 
 
 * [Flask Web Development with python (Bangla)](https://www.youtube.com/playlist?list=PL5WWFMzXof5hA8cLzEoim7BEkHcmddbOK) - Naimul Hawk
+* [Python Flask Web Development Full Course in One Video(বাংলা)](https://youtu.be/QnbsCC8wvJk?si=sRyiRRehGb_qv2wR) - CodeWithRafiq
 
 
 ### Scratch
@@ -331,6 +373,16 @@
 
 * [Linux Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PLMTKJq4uuKqXVg7S7XujEsONl9ZVT4X0p) - Atiq Hasan Zubu
 * [Shell Scripting Tutorial in Bangla](https://www.youtube.com/playlist?list=PLuDISCShhAlxIduQrBqee-dlCAQTygm4l) - Mohammad Shakirul Islam
+
+
+### Software Architecture
+
+* [বাংলায় মাইক্রোসার্ভিস \| Microservices in Bangla - What are the building blocks of a good Microservices System](https://www.youtube.com/playlist?list=PLEYpvDF6qy8YyX2dQX93C88mQ5alaWFXJ) - Foyzul Karim
+* [Career in Backend Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB2m_jJ1QYOFD2D4JZuY6fO) - Stack Learner
+* [Practical Microservices Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAO0uVm0ClJ3wsKHJw6G_TL) - Stack Learner
+* [Pro Postman Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAw_wmOs1iVfdFGiAX-wGKF) - Stack Learner
+* [REST API Design Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAWGDKIzcn6NWikVkljJQZc) - Stack Learner
+* [System Design & Application Architecture Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz) - Stack Learner
 
 
 ### Swift
@@ -348,9 +400,7 @@
 ### WordPress
 
 * [WordPress Bangla Tutorial](https://www.youtube.com/playlist?list=PLm64fbD5Onxti7DiUkX3UX3P2tuiEw30E) - Moshiur
-* [Wordpress Bangla Tutorial Course for beginner to advanced level](https://www.youtube.com/playlist?list=PLeCz-UdZ0uzQVPdQN-mWnz8896BdYMqAf) - Freelancer Mannan
 * [WordPress Customization Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMno7NzhTgGhoZtRjLiHUo8m4) - Learn Hunter
 * [WordPress Plugin Development](https://www.youtube.com/playlist?list=PLSNRR4BKcowCkeAxfdtTsLqwR0LJYwDaz) - Procoder BD
 * [WordPress Theme Development Tutorial Bangla ](https://www.youtube.com/playlist?list=PLSNRR4BKcowD6A-U_ll9ayJWqOEz3XD8l) - Procoder BD
 * [WP Theme Development with ChatGPT](https://www.youtube.com/playlist?list=PLn_JOV5gUeKwLEMqi93W6eswy4hEQ_ouL) - Md Maruf Adnan Sami
-
