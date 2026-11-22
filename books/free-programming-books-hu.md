@@ -20,9 +20,9 @@
 ### 0 - Programozási nyelv független
 
 * [A hitelesítés-szolgáltatókkal szembeni bizalom erősítése](http://mek.oszk.hu/03900/03943/index.phtml) - Várnai Róbert (PDF)
-* [Adatmodellezés](http://mek.oszk.hu/11100/11144/index.phtml) - Halassy Béla (Word, PDF)
-* [Az adatbázistervezés alapjai és titkai](http://mek.oszk.hu/11100/11123/index.phtml) - Halassy Béla (Word, PDF)
-* [Ember, információ, rendszer](http://mek.oszk.hu/11100/11122/index.phtml) - Halassy Béla (Word, PDF)
+* [Adatmodellezés](https://web.archive.org/web/20241007075936/http://mek.oszk.hu/11100/11144/index.phtml) - Halassy Béla (Word, PDF) *( :card_file_box: archived)*
+* [Az adatbázistervezés alapjai és titkai](https://web.archive.org/web/20240911090903/http://mek.oszk.hu/11100/11123/index.phtml) - Halassy Béla (Word, PDF) *( :card_file_box: archived)*
+* [Ember, információ, rendszer](https://web.archive.org/web/20240523085428/http://mek.oszk.hu/11100/11122/index.phtml) - Halassy Béla (Word, PDF) *( :card_file_box: archived)*
 * [Formális nyelvek](http://mek.oszk.hu/05000/05099/index.phtml) - Bach Iván (PDF)
 * [Mese a felhasználó központú tervezőről](http://mek.oszk.hu/11700/11748/index.phtml) - David Travis, `trl.:` Favorit Fordító Iroda (PDF)
 * [Prognyelvek portál](http://nyelvek.inf.elte.hu/index.php) - Felelős oktató: Nyékyné Gaizler Judit (HTML)
@@ -51,7 +51,7 @@
 ### HTML and CSS
 
 * [CSS alapjai](http://weblabor.hu/cikkek/cssalapjai1) - Bártházi András (HTML)
-* [Webes szabványok](http://nagygusztav.hu/webes-szabvanyok) - Chris Mills, Ben Buchanan, Tom Hughes-Croucher, Mark Norman "Norm" Francis, Linda Goin, Paul Haine, Jen Hanen, Benjamin Hawkes-Lewis, Ben Henick, Christian Heilmann, Roger Johansson, Peter-Paul Koch, Jonathan Lane, Tommy Olsson, Nicole Sullivan, Mike West, `trl.:` Nagy Gusztáv (PDF)
+* [Webes szabványok](https://nagygusztav.hu/pdf/webes-szabvanyok.pdf) - Chris Mills, Ben Buchanan, Tom Hughes-Croucher, Mark Norman "Norm" Francis, Linda Goin, Paul Haine, Jen Hanen, Benjamin Hawkes-Lewis, Ben Henick, Christian Heilmann, Roger Johansson, Peter-Paul Koch, Jonathan Lane, Tommy Olsson, Nicole Sullivan, Mike West, `trl.:` Nagy Gusztáv (PDF)
 
 
 ### Java
@@ -61,7 +61,7 @@
 * [Hálózati alkalmazások Java nyelven](http://mek.oszk.hu/01300/01304/index.phtml) - Csizmazia Anikó, Csizmazia Balázs (PDF)
 * [Hálózati alkalmazások készítése: CORBA, Java, WWW](http://mek.oszk.hu/01700/01750/index.phtml) - Csizmazia Balázs (PS)
 * [Java alapú webtechnológiák](http://www.ms.sapientia.ro/~manyi/index_java_techn.html) - Antal Margit (PDF)
-* [Java programozás](http://nagygusztav.hu/java-programozas) - Nagy Gusztáv (PDF)
+* [Java programozás](https://nagygusztav.hu/pdf/java-programozas.pdf) - Nagy Gusztáv (PDF)
 * [Objektumorientált programozás](http://www.ms.sapientia.ro/~manyi/teaching/oop/oop.pdf) - Antal Margit (PDF)
 * [Programozás III.](http://www.sze.hu/~varjasin/oktat.html) - Varjasi Norbert (PDF)
 * [RMI](http://mek.oszk.hu/01200/01263/index.phtml) - Dékány Dániel (PDF)
@@ -94,9 +94,9 @@
 
 ### PHP
 
-* [Drupal 6 alapismeretek](http://nagygusztav.hu/drupal-6-alapismeretek) - Nagy Gusztáv (PDF)
-* [Drupal 7 alapismeretek](http://nagygusztav.hu/drupal-7-alapismeretek) - Nagy Gusztáv (PDF)
-* [Web programozás alapismeretek](http://nagygusztav.hu/web-programozas) - Nagy Gusztáv (PDF)
+* [Drupal 6 alapismeretek](https://nagygusztav.hu/pdf/drupal-6-alapismeretek.pdf) - Nagy Gusztáv (PDF)
+* [Drupal 7 alapismeretek](https://nagygusztav.hu/pdf/drupal-7-alapismeretek.pdf) - Nagy Gusztáv (PDF)
+* [Web programozás alapismeretek](https://nagygusztav.hu/pdf/web-programozas.pdf) - Nagy Gusztáv (PDF)
 * [Webadatbázis-programozás](http://ade.web.elte.hu/wabp/index.html) - Horváth Győző, Tarcsi Ádám (HTML)
 
 

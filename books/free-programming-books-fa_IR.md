@@ -4,6 +4,7 @@
 
 * [رایانش ابری](#%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D8%B4-%D8%A7%D8%A8%D8%B1%DB%8C)
 * [مهندسی نرم‌افزار](#%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1)
+* [Git](#git)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -37,6 +38,11 @@
 * [ترجمه آزاد کتاب کد تمیز](https://codetamiz.vercel.app) - Robert C. Martin, et al.&lrm;
 
 
+### Git
+
+* [Pro Git](https://git-scm.com/book/fa/v2) - Scott Chacon, Ben Straub&rlm; (HTML) (CC BY-NC-SA&rlm;)
+
+
 ### HTML and CSS
 
 * [یادگیری پیکربندی با CSS&rlm;](http://fa.learnlayout.com)
@@ -64,6 +70,7 @@
 ### Linux
 
 * [تائوی برنامه نویسان](https://aidinhut.com/fa/books/the_tao_of_programming.pdf) (PDF)
+* [خط فرمان لینوکس](https://linuxcli.ir) - William Shotts&rlm;, `trl.:` محمد مهدی‌نژاد&rlm; (PDF, HTML) (CC BY-NC-ND&rlm;)
 * [فقط برای تفریح؛ داستان یک انقلابی اتفاقی](https://linuxstory.ir)
 * [لینوکس و زندگی؛‌ درس‌هایی برای گیک های جوان](https://linuxbook.ir)
 

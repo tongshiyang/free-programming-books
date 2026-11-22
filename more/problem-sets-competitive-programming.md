@@ -35,6 +35,7 @@
 * [DMOJ](https://dmoj.ca)
 * [E-olymp](https://www.e-olymp.com/en/)
 * [Exercism](https://exercism.org)
+* [Frontend Coding Challenges](https://frontendatlas.com/coding) - FrontendAtlas
 * [HackerEarth](https://www.hackerearth.com)
 * [Hackerrank](https://www.hackerrank.com)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
@@ -116,6 +117,7 @@
 * [APL Practice Problems](https://problems.tryapl.org)
 * [BaekJoon Online Judge](http://www.acmicpc.net)
 * [beecrowd](https://www.beecrowd.com.br)
+* [Bugger](https://bugger.in/practice) (account *required* to run code)
 * [CareerCup](http://www.careercup.com)
 * [CheckIO](http://www.checkio.org)
 * [Codechef](https://www.codechef.com/problems/school)
@@ -145,6 +147,7 @@
 * [Pep Coding](https://www.pepcoding.com/resources)
 * [PKU Online Judge](http://poj.org)
 * [Ponder This!](https://www.research.ibm.com/haifa/ponderthis/index.shtml)
+* [PracHub](https://prachub.com/questions)
 * [Practice Python](https://www.practicepython.org)
 * [ProblemBook.NET](https://github.com/AndreyAkinshin/ProblemBook.NET)
 * [Project Euler](https://projecteuler.net)
@@ -158,4 +161,5 @@
 * [Topic wise multiple choice questions in computer science](https://www.geeksforgeeks.org/quiz-corner-gq/#C%20Programming%20Mock%20Tests) - Geeks For Geeks
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
 * [Vulnhub.com](https://www.vulnhub.com)
+* [Кодолимп](https://codolymp.ru/catalog) (Russian, Python)
 * [Школа программиста](https://acmp.ru)

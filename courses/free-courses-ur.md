@@ -16,6 +16,7 @@
 ### Algorithms
 
 * [Data Structures and Algorithms Analysis Complete Course in Hindi/Urdu \| Data structures by Fahad Hussain \| data structures and algorithms tutorial](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfPNlAKWxBqdznCcXV4iWCz) - Fahad Hussain&rlm;
+* [Data Structures with Python (Urdu)](https://www.youtube.com/playlist?list=PLnd7R4Mcw3rK0bGYlR32Y084AKimVepDk) - Recluze&rlm;
 
 
 ### Android
@@ -29,6 +30,7 @@
 ### Assembly
 
 * [Assembly Language Programming Tutorials in Urdu / Hindi](https://www.youtube.com/playlist?list=PLR2FqYUVaFJpHPw1ExSVJZFNlXzJYGAT1) - Programology&rlm;
+* [Computer Organization & Assembly Language](https://www.youtube.com/playlist?list=PLnd7R4Mcw3rJCvAduQxyySvejtBIaPs0O) - Recluze&rlm;
 
 
 ### C
@@ -55,7 +57,7 @@
 
 ### Figma
 
-* [Figma Design Complete Course in Urdu | Hindi](https://youtube.com/playlist?list=PLspW40rZgNekDbMeeuV8VLt3JoCMg8pQt&si=_J8tYEL3W0YFiHNh) - Tutorials Town&rlm;
+* [Figma Design Complete Course in Urdu \| Hindi](https://youtube.com/playlist?list=PLspW40rZgNekDbMeeuV8VLt3JoCMg8pQt&si=_J8tYEL3W0YFiHNh) - Tutorials Town&rlm;
 
 
 ### <a id="html-and-css"></a>HTML and CSS

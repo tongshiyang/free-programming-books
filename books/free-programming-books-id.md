@@ -4,6 +4,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Game Development](#game-development)
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
@@ -55,6 +56,11 @@
 * [Buku Pintar C++ untuk Pemula](https://www.researchgate.net/publication/236687537_Buku_Pintar_C_untuk_Pemula) - Abdul Kadir
 
 
+### Game Development
+
+* [AI dan Claude Code untuk Praktik Game Design](https://github.com/eremes81/game-design-ai-practice-id) - Minsoo Lee
+
+
 ### Git
 
 * [Belajar Git untuk Pemula](https://github.com/petanikode/belajar-git) - Ahmad Muhardian, Petani Kode (HTML)
@@ -82,7 +88,6 @@
 #### Bootstrap
 
 * [Bootstrap](https://www.malasngoding.com/category/bootstrap/) - Diki Alfarabi Hadi
-* [Bootstrap 5 : Pengertian, Fitur, Keunggulan dan Cara Menggunakannya](https://www.niagahoster.co.id/blog/tutorial-bootstrap-5/) - Niagahoster (HTML)
 * [Daftar Tutorial Bootstrap 4 Bahasa Indonesia](https://www.bewoksatukosong.com/2019/02/tutorial-bootstrap-4-bahasa-indonesia.html) - Gerald Cahya Prambudi
 * [Tutorial Belajar Framework Bootstrap 5](https://www.duniailkom.com/tutorial-belajar-framework-bootstrap/) - Duniailkom
 
@@ -226,6 +231,7 @@
 * [Belajar Python](http://www.belajarpython.com)
 * [Cepat Mahir Python](https://gilacoding.com/upload/file/Python.pdf) - Hendri, `edt.:` Romi Satria Wahono (PDF)
 * [Dasar-Dasar Python: Panduan Cepat untuk Memahami Fondasi Pemrograman Python](https://www.researchgate.net/publication/361459389_Dasar-Dasar_Python_Panduan_Cepat_untuk_Memahami_Fondasi_Pemrograman_Python) - Abdul Kadir
+* [Dasar Pemrograman Python](https://dasarpemrogramanpython.novalagung.com) - Noval Agung Prayogo
 * [Dasar Pengenalan Pemrograman Python](https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ) - Rolly Maulana AwanggaRayhan *(Membutuhkan akun Google Play Books atau email yang valid)*
 * [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
 * [Python Untuk Pemula](https://santrikoding.com/ebook/python-untuk-pemula) - Rizqi Maulana

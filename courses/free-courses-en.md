@@ -124,6 +124,9 @@
 
 ### 0 - MOOC
 
+* [AI School](https://lillytechsystems.com/ai-school/)
+* [AIMarket Courses](https://alexar76.github.io/aimarket-courses/) - Aleksandr Artamokhov (HTML) (MIT)
+* [CheatGrid](https://www.cheatgrid.com/roadmaps)
 * [class central](https://www.classcentral.com)
 * [Codecademy](https://www.codecademy.com)
 * [Coursera](https://www.coursera.org)
@@ -137,7 +140,7 @@
 * [LabEx](https://labex.io)
 * [Learning SAP](https://learning.sap.com)
 * [LearnWeb3 DAO \| Become a Web3 Developer for Free](https://learnweb3.io)
-* [MIT OCW](http://ocw.mit.edu)
+* [MIT OCW](https://ocw.mit.edu)
 * [MOOC.fi](https://www.mooc.fi/en/)
 * [NPTEL](https://onlinecourses.nptel.ac.in)
 * [openHPI](https://open.hpi.de)
@@ -154,6 +157,7 @@
 * [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - Abdul Bari
 * [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0) - Pasan Premaratne, Jay McGavren (freeCodeCamp)
 * [Analysis of Algorithms (CSE 373)](https://www3.cs.stonybrook.edu/~skiena/373/videos) - Steven Skiena
+* [Array](https://www.codeintuition.io/courses/array) - CodeIntuition
 * [Berkeley University CS 61B: Data Structures](https://datastructur.es/sp16/)
 * [C Programming & Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) - Neso Academy
 * [Codechef Solutions](https://www.youtube.com/playlist?list=PLRKOqqzwh75huOam-77G1v9uHjO9WWBRX) - Endeavour Monk
@@ -195,6 +199,7 @@
 * [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
 * [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 * [Red Black Tree in Data Structures](https://www.youtube.com/playlist?list=PLPzfPcir5uPT8KFST1Ba3vN6k9yKE9ZK4) - NG Tutorials
+* [Singly Linked List](https://www.codeintuition.io/courses/singly-linked-list) - CodeIntuition
 * [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
 * [Sorting Algorithms](https://www.youtube.com/playlist?list=PLzgPDYo_3xunyLTJlmoH8IAUvet4-Ka0y) - Amulya's Academy
 * [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
@@ -258,6 +263,7 @@
 
 * [Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) - Hugging Face
 * [AI Courses](https://software.intel.com/content/www/us/en/develop/topics/ai/training/courses.html) - Intel Corporation
+* [AI Engineering](https://amey-thakur.github.io/AI-ENGINEERING/) - Amey Thakur
 * [AI Fundamentals](https://www.udacity.com/course/ai-fundamentals--ud099) - Microsoft Azure (Udacity)
 * [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) - Andrew Ng (DeepLearning.ai)
 * [Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) - Fulvio Corno, Luigi De Russis, Alberto Monge Roffarello @ Politecnico di Torino
@@ -288,6 +294,7 @@
 #### Generative AI
 
 * [AI Agents for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHgKcRjd5-8DT9TbwdlDO-OC) - Microsoft Developer
+* [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - Andrew Ng, Isa Fulcher (DeepLearning.AI)
 * [CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) - Stefano Ermon (Stanford Online)
 * [Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) - Volodymyr Kuleshov
 * [Foundation Models and Generative AI](https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024) - Rickard Gabrielsson (MIT OpenCourseWare)
@@ -303,6 +310,7 @@
 * [Retrieval Augmented Generation for Production with LangChain & LlamaIndex](https://learn.activeloop.ai/courses/rag) - Activeloop *(account required)*
 * [Training & Fine-Tuning LLMs for Production](https://learn.activeloop.ai/courses/llms) - Activeloop *(account required)*
 * [Understanding Large Language Models — Foundations and Safety (CS 194/294-267)](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe) - Responsible Decentralized Intelligence (UC Berkeley EECS)
+* [Vibe Coding for Beginners](https://www.youtube.com/playlist?list=PLLRVNOCjAuec) - Amplified Architect
 
 
 ### Assembly
@@ -529,6 +537,7 @@
 * [MIT's Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) - John Guttag (MIT OpenCourseWare)
 * [MIT's Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) - Ana Bell, Eric Grimson, John Guttag (MIT OpenCourseWare)
 * [MIT's Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu) - Anish Athalye, Jon Gjengset, Jose Javier Gonzalez Ortiz (MIT)
 
 
 ### Cryptography
@@ -551,7 +560,7 @@
 ### Cypress
 
 * [Cypress Course Playlist](https://www.youtube.com/playlist?list=PLYDwWPRvXB8-8LG2hZv25HO6C3w_vezZb) - JoanMedia
-* [Cypress Official Course - Best Documnetation](https://learn.cypress.io) - Cypress.io
+* [Cypress Official Course - Best Documentation](https://learn.cypress.io) - Cypress.io
 * [Test Automation - Cypress Tutorial](https://testautomationu.applitools.com/cypress-tutorial/) - Elliot Arledge (FreeCodeCamp)
 
 
@@ -683,7 +692,7 @@
 * [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) - Alfredo Canziani
 * [NYU Deep Learning SP22](https://www.youtube.com/playlist?list=PLLHTzKZzVU9f3kmEta5dlkMXgtD1LxHzT) - Alfredo Canziani
 * [OpenCV Bootcamp](https://opencv.org/university/free-opencv-course/) - OpenCV University
-* [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard
+* [Practical Deep Learning For Coders taught](https://www.fast.ai) - Jeremy Howard
 * [Practical Deep Learning for Coders, v3 (using fastai library)](https://course.fast.ai)
 * [PyTorch Bootcamp](https://opencv.org/university/free-pytorch-course/) - OpenCV University
 * [Recurrent Neural Network](https://www.youtube.com/playlist?list=PLuhqtP7jdD8ARBnzj8SZwNFhwWT89fAFr) - Coding Lane
@@ -705,6 +714,7 @@
 * [DevOps Full Course](https://www.youtube.com/watch?v=lpk7VpGqkKw) - Simplilearn
 * [DevOps Tutorial for Beginners](https://www.youtube.com/playlist?list=PLVHgQku8Z934suC9LSE6vaAKjOH_MfRbE) - Intellipaat
 * [DevOps Tutorial for Beginners \| Learn DevOps in 7 Hours - Full Course \| DevOps Training \| Edureka](https://www.youtube.com/watch?v=hQcFE0RD0cQ) - Edureka
+* [TheCodeForge DevOps Tutorials](https://thecodeforge.io/devops/) - TheCodeForge
 
 
 #### Ansible
@@ -749,6 +759,7 @@
 * [Deploying Containerized Applications Technical Overview](https://www.udemy.com/course/deploying-containerized-applications-technical-overview) - Red Hat
 * [Docker](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK) - Raghav Pal
 * [Docker and Kubernetes Complete Tutorial](https://www.youtube.com/playlist?list=PL0hSJrxggIQoKLETBSmgbbvE4FO_eEgoB) - Analytics Excellence
+* [Docker Course](https://prepare.sh/course/docker-course) - prepare.sh
 * [Docker Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7) - Net Ninja
 * [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials) - CognitiveClass.ai
 * [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=pTFZFxd4hOI) - Programming with Mosh!
@@ -825,7 +836,6 @@
 * [Platform Game Development w/ Construct 2](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAp287UuTE0-K7Ty-b8rGAX) - thenewboston
 * [Pygame (Python Game Development)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq) - thenewboston
 * [Run Bunny, Run! Creating a 2D game in Unity](https://www.youtube.com/playlist?list=PLvUqRm2B9RRBgJipfDmFR7sFhEwBn7aGT) - Rabidgremlin
-* [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals) - Pluralsight Company (Unity Learn)
 * [Unity Beginner Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6) (Brackeys)
 * [Unity User Manual](https://docs.unity3d.com/Manual/)
 
@@ -892,8 +902,8 @@
 * [C9 : Functional Programming Fundamentals](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals) - Erik Meijer
 * [CIS 194: Introduction to Haskell](http://www.seas.upenn.edu/~cis194/) - Brent Yorgey
 * [CS240h: Functional Systems in Haskell](http://www.scs.stanford.edu/11au-cs240h/notes/) - Bryan O'Sullivan
-* [edX: Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) - Erik Meijer
 * [Functional Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pgp.html) - Graham Hutton
+* [Introduction to Functional Programming (TU Delft OCW)](https://ocw.tudelft.nl/courses/introduction-to-functional-programming/) - Erik Meijer
 * [RWTH Aachen University: Functional Programming](https://videoag.fsmpi.rwth-aachen.de/?course=12ss-funkprog) - Jürgen Giesl
 
 
@@ -932,7 +942,7 @@
 * [Learn CSS](https://www.codecademy.com/learn/learn-css) - Codecademy
 * [Learn CSS Grid](https://scrimba.com/learn/cssgrid) - Per Harald Borgen (Scrimba)
 * [Learn Flexbox](https://scrimba.com/learn/flexbox) - Per Harald Borgen (Scrimba)
-* [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
+* [Learn how to program: CSS](https://web.archive.org/web/20191209165033/https://www.learnhowtoprogram.com/css) - Epicodus Inc. *( :card_file_box: archived)*
 * [Learn HTML](https://www.codecademy.com/learn/learn-html) - Codecademy
 * [Learn HTML and CSS](https://www.bitdegree.org/courses/coding-for-beginners-space-doggos) (BitDegree)
 * [Learn HTML and CSS with 5 projects](https://scrimba.com/learn/htmlandcss) - Per Harald Borgen (Scrimba)
@@ -992,7 +1002,6 @@
 
 * [Advanced Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about) - MIT Open Learning Library
 * [Building Microservices With Spring Boot – Free Course With Practical Project](https://javatodev.com/building-microservices-with-spring-boot-free-course-with-practical-project/) Chinthaka Dinadasa (javatodev)
-* [Central Connecticut State University, Introduction to CS Using Java](http://chortle.ccsu.edu/CS151/cs151java.html)
 * [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) (Stanford)
 * [Fundamentals of Java EE Development](https://www.edx.org/course/fundamentals-of-java-ee-development) -  Will Dinyes (edX)
 * [Hibernate Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7qBZtsEvp_n2A7sJs2MpF3r) - Telusko (Navin Reddy)
@@ -1023,7 +1032,7 @@
 * [Java Tutorial For Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK) - Telusko
 * [Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/) - John Purcell (Udemy)
 * [JSP (Java server pages) and servlet basics](https://www.udemy.com/course/jsp-servlet-free/) - StudyEasy Organisation, Chaand Sheikh (Udemy)
-* [Learn how to program: Java](https://www.learnhowtoprogram.com/java) - Epicodus Inc.
+* [Learn how to program: Java](https://web.archive.org/web/20191209171755/http://www.learnhowtoprogram.com/java) - Epicodus Inc. *( :card_file_box: archived)*
 * [Learn Java](https://www.codecademy.com/learn/learn-java) - CodeAcademy *(Need to create a CodeAcademy account to access)*
 * [Learn Java Programming](https://www.programiz.com/java-programming) - Programiz
 * [Learn Java Programming - Java for Testers and Developers](https://www.udemy.com/course/learn-java-programming-a/) - Pavan Kumar (Udemy)
@@ -1226,7 +1235,6 @@
 * [React Crash Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4) - freecodecamp
 * [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h) - WebDevSimplified
 * [React JS Tutorial - Basic to Advance (2023)](https://www.youtube.com/watch?v=cd3P3yXyx30) - Nerd's lesson
-* [React Patterns for web apps](https://www.patterns.dev/book/) - Lydia Hallie, Addy Osmani
 * [React Router 6 – Tutorial for Beginners](https://www.youtube.com/watch?v=59IXY5IDrBA) - John Smilga (freeCodeCamp)
 * [React State Management Intermediate JavaScript Course](https://www.youtube.com/watch?v=-bEzt5ISACA) - Jack Herrington (freeCodeCamp)
 * [React State Management using Context API (useContext + useReducer Hooks = Magic)](https://www.youtube.com/watch?v=zxP4oGejqpU) - The Full Stack Junkie
@@ -1247,7 +1255,7 @@
 #### React Native
 
 * [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native) - edX
-* [Introduction to React Native](https://fullstackopen.com/en/part10/introduction_to_react_native) - Full Stack Open
+* [Introduction to React Native](https://courses.mooc.fi/org/uh-cs/courses/full-stack-open-react-native) - Full Stack Open (MOOC.fi)
 * [React Native for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) - The Net Ninja
 * [React Native Mastery with 10 apps](https://www.youtube.com/playlist?list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c) - Hitesh Choudary(Youtube)
 * [React Native Tutorial (2021)](https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ) - Programming with Mash, MAhdi SHarifimehr
@@ -1365,7 +1373,6 @@
 
 ### Kubernetes
 
-* [Fundamentals of Containers, Kubernetes, and Red Hat OpenShift](https://www.edx.org/course/fundamentals-of-containers-kubernetes-and-red-hat) - Zach Gutterman, Richard Allred (edX)
 * [Kubernetes 101 workshop - complete hands-on](https://www.youtube.com/live/PN3VqbZqmD8?feature=shared) - Kubesimplify
 * [Kubernetes Core Concepts](https://kube.academy/paths/kubernetes-core-concepts) - KubeAcademy (VMware)
 * [Kubernetes Course](https://www.youtube.com/watch?v=d6WC5n9G_sM) - Bogdan Stashchuk (FreeCoodeCamp)
@@ -1477,7 +1484,6 @@
 
 ### Misc
 
-* [Advanced Adobe XD (Web Design)](https://webdesign.tutsplus.com/courses/advanced-adobe-xd-for-everyone) - Adi Purdila
 * [An Introduction to Developing With NVIDIA Omniverse](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-11+V1) - NVIDIA Deep Learning Institute
 * [Assembling Your First Digital Twin With Omniverse and OpenUSD](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-49+V1) - NVIDIA Deep Learning Institute
 * [Computer Graphics](http://nptel.ac.in/courses/106106090/) 
@@ -1507,6 +1513,7 @@
 * [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples](https://www.youtube.com/watch?v=IPvYjXCsTg8) - Kunal Kushwaha
 * [Computer Networks 5e](https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) - Andrew Tanenbaum, David Wetherall (Pearson)
 * [Free CCNA 200-301 // Complete Course // NetworkChuck 2023](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P) - NetworkChuck
+* [Networking from Scratch](https://networkingfromscratch.vercel.app) - Tanay Kumar
 
 
 ### Objective-C
@@ -1618,6 +1625,7 @@
 * [Practical Python: An Immersive Python Course](https://practical.learnpython.dev) - Nina Zakharenko
 * [Practical Python Programming](https://dabeaz-course.github.io/practical-python/) - David Beazley
 * [Problem Solving, Python Programming, and Video Games](https://www.coursera.org/learn/problem-solving-programming-video-games) - Duane Szafron, Paul Lu (Coursera)
+* [Python & Data Analysis Course](https://pyda-course.online) - Abderrahim Adrabi
 * [Python 101 – Introduction to Programming](https://www.tutorialspoint.com/python_101_andndash_introduction_to_programming/index.asp) - Zenva (Tutorials Point)
 * [Python 3 Programming Tutorials for Beginners](https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0) - Codebasics
 * [Python And Cryptocurrency: Build 5 Real World Applications](https://www.udemy.com/course/coinmarketcap/) Ian Annase (Udemy)
@@ -1803,6 +1811,7 @@
 * [Ethical Hacking for beginners: Beginner to Advance](https://www.udemy.com/course/ethical-hacking-for-beginners-beginner-to-advance) - PaceIT Academy (Udemy)
 * [Ethical hacking with Hak5 devices](https://www.udemy.com/course/ethical-hacking-with-hak5-devices) - David Bombal (Udemy)
 * [Foundations of Hacking and Pentesting Android Apps](https://www.udemy.com/course/foundations-of-hacking-and-pentesting-android-apps) - Scott Cosentino (Udemy)
+* [Free Security Awareness Training For Everyone](https://ransomleak.com/learning/) - RansomLeak
 * [Full Length Hacking Courses](https://youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47) - The Cyber Mentor
 * [Hacker Skills // OSINT (Information Gathering)](https://www.youtube.com/playlist?list=PLIhvC56v63IJ9SYBtdDsNnORfTNFCXR8_) - NetworkChuck
 * [Introduction to Dark Web, Anonymity and Cryptocurrency](https://www.udemy.com/course/introduction-to-dark-web-anonymity-and-cryptocurrency) - Rajneesh Gupta (Udemy)
@@ -1829,6 +1838,8 @@
 * [Selenium Full Course- Learn Selenium in 12 Hours](https://www.youtube.com/watch?v=FRn5J31eAMw) - Edureka
 * [Selenium WebDriver Tutorial](https://www.youtube.com/playlist?list=PLL34mf651faPB-LyEP0-a7Avp_RHO0Lsm) - Software Testing Mentor
 * [Software Engineering](https://www.youtube.com/playlist?list=PLWPirh4EWFpG2b1L3CL-OAPYcM25jLjXH) - Tutorialspoint
+* [Software Engineering — The Easy Way](https://thetpmguy.github.io/software-engineering-the-easy-way/) - thetpmguy
+* [Sourcemap: Ninety Days to Read Any System](https://sourcemap.co) - Mihirsinh Chavda
 
 
 ### Solidity
@@ -1858,7 +1869,7 @@
 
 #### Vapor
 
-* [Vapor University](https://vapor.university)
+* [Vapor University](https://web.archive.org/web/20231102091423/http://vapor.university/) *( :card_file_box: archived)*
 
 
 ### System Design
@@ -1924,7 +1935,7 @@
 * [Flask(A Python Microframework) Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Foundations of Front End Web Development](https://www.udemy.com/course/foundations-of-front-end-development/) - Davide Molin (Udemy)
 * [Frontend UI Development with React](https://www.youtube.com/playlist?list=PL0vfts4VzfNgUUEtEjxDVfh4iocVR3qIb) - Jeff Delaney, Fireship.io
-* [Full Course Web Development 22 Hours | Learn Full Stack Web Development From Scratch](https://www.youtube.com/watch?v=ZxKM3DCV2kE) - Mehul Mohan (codedamn)
+* [Full Course Web Development 22 Hours \| Learn Full Stack Web Development From Scratch](https://www.youtube.com/watch?v=ZxKM3DCV2kE) - Mehul Mohan (codedamn)
 * [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) - by AWS on Udacity
 * [Full stack open](https://fullstackopen.com/en/) - University of Helsinki, Houston Inc., Terveystalo, Elisa, K-ryhmä, Unity Technologies, Konecranes
 * [Full Stack Web Development Tutorial Course](https://www.youtube.com/playlist?list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz) - WB Web Development Solutions
@@ -1936,7 +1947,7 @@
 * [Python Web Scraping & Crawling using Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
 * [React Fundamentals - The Complete Guide For Beginners](https://www.udemy.com/course/react-fundamentals-the-complete-guide-for-beginners/) - Kerim Abdelmouiz (Udemy)
 * [The GraphQL Apollo (with ReactJS, NodeJS and MongoDB)](https://www.udemy.com/course/the-new-graphql-apollo-course-2020) - Mohd. Raqif Warsi (Udemy)
-* [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
+* [The Odin Project - Learn Web Development for Free](https://www.theodinproject.com)
 * [Web Accessibility – What It Is and How to Design for It?](https://www.hostinger.in/tutorials/web-accessibility) - Hostinger Tutorials
 * [Web Basics](https://open.cs.uwaterloo.ca/web-basics/) - Centre for Education in Math and Computing (University of Waterloo)
 * [Web Development Course](https://syllabus.migracode.org/courses/introduction-3) - MigraCode Barcelona
@@ -1983,4 +1994,3 @@
 ### YAML
 
 * [Complete YAML Course - Beginner to Advanced for DevOps and more!](https://www.youtube.com/watch?v=IA90BTozdow) - Kunal Kushwaha
-

@@ -151,6 +151,7 @@
 ### Data Science
 
 * [Cheatsheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
+* [Polars Cheat Sheet](https://www.cheatgrid.com/data-science/0597-polars-cheat-sheet) - CheatGrid (HTML)
 
 
 ### <a id="data-structures-and-algorithms"></a>Data Structures and Algorithms
@@ -200,10 +201,12 @@
 * [Docker Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/docker-cheat-sheet/) - IntelliPaat (HTML, PDF)
 * [Docker Cheat Sheet](https://web.archive.org/web/20210516172426/https://swissarmydevops.com/wp-content/uploads/2021/02/Docker_Cheat_Sheet-2.pdf) - Nikko Pedersen, Swiss Army DevOps (PDF) *( :card_file_box: archived)*
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) - Will Sargent, et al. (HTML)
+* [Docker Cheat Sheet](https://www.cheatgrid.com/containers-orchestration/0119-docker-cheat-sheet) - CheatGrid (HTML)
 * [Docker Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/Docker.docset/Contents/Resources/Documents/index) - Bogdan Popescu (HTML)
 * [Docker Cheat Sheet : Complete Guide (2024)](https://www.geeksforgeeks.org/docker-cheat-sheet) - Geeksforgeeks (HTML)
 * [Docker Cheat Sheet (v1)](https://dockerlux.github.io/pdf/cheat-sheet.pdf) - Gildas Cuisinier, Docker Meetup Luxembourg (PDF)
 * [Docker Cheat Sheet (v2)](https://dockerlux.github.io/pdf/cheat-sheet-v2.pdf) - Gildas Cuisinier, Docker Meetup Luxembourg (PDF)
+* [Docker Cheatsheet](https://github.com/mixseomin/dev-cheatsheets/blob/main/02-docker.md) - mixseomin (Markdown)
 * [Docker Cheatsheet: Docker commands that developers should know](https://vishnuch.tech/docker-cheatsheet) - Vishnu Chilamakuru (HTML)
 * [Docker CLI \& Dockerfile Cheat Sheet](https://web.archive.org/web/20210909015922/https://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf) - Bachir Chihani, Rafael Benevides, Red Hat Developers (PDF) *( :card_file_box: archived)*
 * [Docker CLI cheatsheet](https://devhints.io/docker) - DevHints, Rico Santa Cruz (HTML)
@@ -213,7 +216,7 @@
 * [Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html) - OWASP Cheat Sheet Series (HTML)
 * [Dockerfile Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/Dockerfile.docset/Contents/Resources/Documents/index) - Bogdan Popescu, Halprin (HTML)
 * [Dockerfiles y docker-compose.yml: buenas prácticas (:es:)](https://leanmind.es/docker-cheatsheet.pdf) - Yodra Lopez Herrera, LeanMind (PDF)
-* [The Definitive Docker Cheat Sheet](http://dockercheatsheet.painlessdocker.com) - Aymen EL Amri (HTML)
+* [The Definitive Docker Cheat Sheet](https://web.archive.org/web/20190205113917/https://dockercheatsheet.painlessdocker.com/) - Aymen EL Amri (HTML) *( :card_file_box: archived)*
 * [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/) - Sangam Biradar, Collabnix DockerLabs (HTML)
 
 
@@ -245,14 +248,16 @@
 
 * [8 Easy Steps to Set Up Multiple GitHub Accounts \[cheat sheet included\]](https://blog.gitguardian.com/8-easy-steps-to-set-up-multiple-git-accounts/) - Thomas Segura, GitGuardian (HTML, PDF)
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - GitHub (PDF)
-* [Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) - GitLab (PDF)
+* [Git Cheat Sheet](https://web.archive.org/web/20260629021617/https://about.gitlab.com/images/press/git-cheat-sheet.pdf) - GitLab (PDF) *( :card_file_box: archived)*
 * [Git Cheat Sheet](http://git.jk.gs) - Jan Krüger (PDF, SVG)
     * [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
     * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
 * [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) - Atlassian (PDF)
 * [Git Cheat Sheet](https://web.archive.org/web/20230816231123/https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF) *( :card_file_box: archived)*
 * [Git Cheat Sheet](https://www.geeksforgeeks.org/git/git-cheat-sheet) - Geeksforgeeks
+* [Git Cheat Sheet](https://learn.webterm.app/en/cheatsheet/git) - WebTerm Learn (HTML, PDF) (CC BY)
 * [Git Cheat Sheet (id)](https://reyhanhamidi.medium.com/buku-saku-git-cheatsheet-git-bahasa-indonesia-3af42e42156e) - Reyhan Alhafizal (HTML)
+* [Git Cheatsheet](https://github.com/mixseomin/dev-cheatsheets/blob/main/01-git.md) - mixseomin (Markdown)
 * [Git ściąga (pl)](https://training.github.com/downloads/pl/github-git-cheat-sheet/) - GitHub (HTML)
 * [GitHub Actions Security Best Practices \[cheat sheet included\]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/) - Thomas Segura, GitGuardian, C.J. May (HTML, PDF)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
@@ -298,7 +303,7 @@
 * [CSS Grid Cheatsheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - Chris House (HTML)
 * [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co) - Chris Malven (HTML)
 * [GRID: A simple visual cheatsheet for CSS Grid Layout](https://grid.malven.co) - Chris Malven (HTML)
-* [HTML & CSS Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) - Emmet Documentation (HTML, [PDF]( https://docs.emmet.io/cheatsheet-a5.pdf))
+* [HTML & CSS Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) - Emmet Documentation (HTML, [PDF](https://docs.emmet.io/cheatsheet-a5.pdf))
 * [HTML 5 - The Mega CheatSheet](https://makeawebsitehub.com/wp-content/uploads/2015/06/HTML5-Mega-Cheat-Sheet-A4-Print-ready.pdf) - Jamie Spencer (PDF)
 * [HTML CheatSheet](https://htmlcheatsheet.com) - htmlcheatsheet.com (HTML, [PDF](https://htmlcheatsheet.com/HTML-Cheat-Sheet.pdf))
 * [HTML Cheatsheet](https://www.codewithharry.com/blogpost/html-cheatsheet/) - CodeWithHarry (HTML)
@@ -320,6 +325,7 @@
 * [Vim Básico (pt)](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas (HTML)
 * [Vim Cheat Sheet](https://www.cs.cmu.edu/~15131/f17/topics/vim/vim-cheatsheet.pdf) - Allison McKnight (PDF)
 * [Vim Cheat Sheet](https://vim.rtorr.com) - Richard Torruellas (HTML)
+* [Vim Cheat Sheet](https://learn.webterm.app/en/cheatsheet/vim) - WebTerm Learn (HTML, PDF) (CC BY)
 * [Vim Cheatsheet](https://devhints.io/vim) - Devhints, Rico Santa Cruz (HTML)
 * [Vim Médio (pt)](https://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas (HTML)
 * [Visual Studio Code: Keyboard shortcuts for Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) - Visual Studio Code (PDF)
@@ -393,6 +399,7 @@
 
 #### React.js
 
+* [React Cheat Sheet](https://www.cheatgrid.com/web-development/0022-react-frontend-framework-cheat-sheet) - CheatGrid (HTML)
 * [React Cheatsheet](https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet) - Codecademy (HTML)
 * [React Native Cheat Sheet](https://zerotomastery.io/cheatsheets/react-native-cheat-sheet/) - ZeroToMastery (HTML)
 * [React-router Cheatsheet](https://devhints.io/react-router) - Devhints.io (HTML)
@@ -493,6 +500,7 @@
 * [Python Cheat Sheet](https://www.pythoncheatsheet.org) - Wilfredinni (HTML)
 * [Python Cheat Sheet](https://overapi.com/python) - OverAPI (HTML)
 * [Python Cheat Sheet](https://zerotomastery.io/cheatsheets/python-cheat-sheet/) - ZeroToMastery (HTML, PDF)
+* [Python Cheat Sheet](https://www.cheatgrid.com/programming-languages/0004-python-cheat-sheet) - CheatGrid (HTML)
 * [Python Cheat sheet (2025)](https://www.geeksforgeeks.org/python-cheat-sheet) - GeeksforGeeks (HTML)
 * [Python Crash Course Cheatsheet](https://github.com/ehmatthes/pcc/blob/master/cheat_sheets/README.md) - Eric Matthes (HTML)
 * [Python Crash Course Cheatsheet (2nd Edition)](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/) - Eric Matthes (PDF)
@@ -564,7 +572,7 @@
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
 * [Base R Cheatsheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf) - Mhairi McNeill (PDF)
 * [Cheat Sheet for R and RStudio](https://www.ocf.berkeley.edu/~janastas/docs/RStudioCheatSheet.pdf) - L. Jason Anastasopoulos (PDF)
-* [Colors in R](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) - Ying Wei  (PDF)
+* [Colors in R](https://web.archive.org/web/20250122193407/http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) - Ying Wei  (PDF) *( :card_file_box: archived)*
 * [Data transformation with dplyr - Cheat sheet](https://posit.co/wp-content/uploads/2022/10/data-transformation-1.pdf) - Posit (PDF)
 * [R color cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf) - Melanie Frazier (PDF)
 
@@ -600,8 +608,10 @@
 
 * [Bash Cheatsheet - CheatSheet.Wtf](https://www.cheatsheet.wtf/bash) - smokingcuke (HTML)
 * [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
+* [Bash Scripting Cheatsheet](https://github.com/mixseomin/dev-cheatsheets/blob/main/13-bash.md) - mixseomin (Markdown)
 * [Cron Cheatsheet](https://devhints.io/cron) - DevHints, Rico Santa Cruz (HTML)
 * [Fish Shell cheatsheet](https://devhints.io/fish-shell) - DevHints, Rico Santa Cruz (HTML)
+* [Linux Commands Cheat Sheet](https://learn.webterm.app/en/cheatsheet/linux) - WebTerm Learn (HTML, PDF) (CC BY)
 
 
 ### Solidity
@@ -624,7 +634,9 @@
 * [PostgreSQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_pgsql.pdf) - Database Star (PDF)
 * [SQL Cheat Sheet](https://www.dataquest.io/wp-content/uploads/2021/01/dataquest-sql-cheat-sheet.pdf) - Dataquest.io (PDF)
 * [SQL Cheat Sheet](https://zerotomastery.io/cheatsheets/sql-cheat-sheet/) - ZeroToMastery (HTML)
+* [SQL Cheat Sheet](https://www.cheatgrid.com/databases/0293-sql-cheat-sheet) - CheatGrid (HTML)
 * [SQL Cheat Sheet by Tomi Mester](https://data36.com/wp-content/uploads/2018/12/sql-cheat-sheet-for-data-scientists-by-tomi-mester.pdf) - Tomi Mester (PDF)
+* [SQL Cheatsheet](https://github.com/mixseomin/dev-cheatsheets/blob/main/04-sql.md) - mixseomin (Markdown)
 
 
 ### TensorFlow
@@ -646,6 +658,7 @@
 
 * [TypeScript Cheat Sheet](https://rmolinamir.github.io/typescript-cheatsheet/) - Robert Molina (HTML)
 * [TypeScript Cheat Sheet](https://zerotomastery.io/cheatsheets/typescript-cheat-sheet/) - ZeroToMastery (HTML)
+* [TypeScript Cheat Sheet](https://www.cheatgrid.com/programming-languages/0076-typescript-cheat-sheet) - CheatGrid (HTML)
 * [TypeScript Cheatsheet](https://github.com/SAYOUNCDR/TS-CheatSheet) - Sayoun Parui (Markdown)
 
 

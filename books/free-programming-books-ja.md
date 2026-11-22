@@ -7,7 +7,7 @@
     * [ガベージコレクション](#%e3%82%ac%e3%83%99%e3%83%bc%e3%82%b8%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3)
     * [グラフィックスプログラミング](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%82%b9%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0)
     * [グラフィックユーザーインターフェイス](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%95%e3%82%a7%e3%82%a4%e3%82%b9)
-    * [ゲーム開発](#%e3%82%b2%e3%83%bc%e3%83%A0%e9%96%8b%e7%99%ba)
+    * [ゲーム開発](#%e3%82%b2%e3%83%bc%e3%83%a0%e9%96%8b%e7%99%ba)
     * [コンテナ](#%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A)
     * [セキュリティ](#%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3)
     * [その他の話題](#%e3%81%9d%e3%81%ae%e4%bb%96%e3%81%ae%e8%a9%b1%e9%a1%8c)
@@ -48,6 +48,7 @@
     * [Node.js](#nodejs)
     * [React](#react)
     * [Svelte](#svelte)
+    * [Vue.js](#vuejs)
 * [Julia](#julia)
 * [LaTeX](#latex)
 * [Linux](#linux)
@@ -132,6 +133,7 @@
 
 * [C# スタイルガイドを作成する：拡張性のある、よりクリーンなコードを書く](https://unity3d.jp/game/game-ebooks/create-code-c-sharp-style-guide-e-book/) - Unity Technologies (HTML & PDF)
 * [C# スタイルガイドを使用して、クリーンでスケーラブルなゲームコードを書く - Unity 6版](https://unity3d.jp/game/create-code-c-sharp-style-guide-e-book-unity-6/) - Unity Technologies (HTML & PDF)
+* [ゲームプランナーのための AI 実務ワークフロー](https://github.com/eremes81/game-design-ai-practice-ja) - Minsoo Lee (イ・ミンス)
 * [ゲームプログラミングのパターンを活用してコードをレベルアップ](https://unity3d.jp/game/game-ebooks/level-up-your-code-with-game-programming-patterns/) - Unity Technologies (HTML & PDF)
 * [ゲームレベルデザイン入門](https://unity3d.jp/game/game-ebooks/game-level-design/) - Unity Technologies (HTML & PDF)
 * [デザインパターンとSOLIDでコードをレベルアップ](https://unity3d.jp/game/design-patterns-solid-ebook/) - Unity Technologies (HTML & PDF)
@@ -376,7 +378,7 @@
 ### iOS
 
 * [Cocoa Programming Tips 1001](https://web.archive.org/web/20170507034234/http://hmdt.jp/tips/cocoa/index.html) - 木下誠
-* [iOSアプリケーション プログラミングガイド](https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html) - Apple Developer (PDF)
+* [iOSアプリケーション プログラミングガイド](https://web.archive.org/web/20170616051042/https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html) - Apple Developer (PDF) *( :card_file_box: archived)*
 * [RubyMotion Tutorial: Ruby で iOS アプリを作ろう](http://tutorial.rubymotion.jp) - Clay Allsopp, `trl:` RubyMotion JP
 
 
@@ -441,13 +443,18 @@
 
 #### Svelte
 
-* [Svelte Tutorial](https://svelte.jp/tutorial/basics) - Svelte.dev
+* [Svelte Tutorial](https://svelte.jp/tutorial) - Svelte.dev
 * [Svelte をはじめる](https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN
+
+
+#### Vue.js
+
+* [The chibivue Book](https://book.chibivue.land/ja/) - ubugeeei
 
 
 ### Julia
 
-* [Julia Language Programming](http://www.nct9.ne.jp/m_hiroi/light/julia.html) - 広井誠
+* [Julia Language Programming](http://www.nct9.ne.jp/m_hiroi/julia/index.html) - 広井誠
 * [実例で学ぶ Julia-0.4.1](https://www.dropbox.com/s/lk7y8lifjcr1vf2/JuliaBook-20151201.pdf) - Yuichi Motoyama (PDF)
 * [物理で使う数値計算入門：Julia言語による簡単数値計算](https://github.com/cometscome/Julianotes) - 永井佑紀
 
@@ -512,7 +519,7 @@
 
 * [Google Objective-C スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/objcguide.xml) - Mike Pinkerton, Greg Miller, Dave MacLachlan, `trl:` Takashi Sasai
 * [Objective-C 2.0 基礎文法最速マスター](https://marycore.jp/prog/objective-c/basic-syntax) - @_marycore
-* [Objective-C プログラミング言語](https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
+* [Objective-C プログラミング言語](https://web.archive.org/web/20150918225253/https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF) *( :card_file_box: archived)*
 * [Objective-C 最速基礎文法マスター](https://fn7.hatenadiary.org/entry/20100203/1265207098) - @fn7
 
 
@@ -615,11 +622,11 @@
 
 * [Ruby on Rails ガイド](https://railsguides.jp) - Rails community, `trl:` 八田 昌三, `trl:` 安川 要平
 * [Ruby on Rails チュートリアル](https://railstutorial.jp) - Michael Hartl, `trl:` 八田 昌三, `trl:` 安川 要平
-* [Ruby ソースコード完全解説](https://i.loveruby.net/ja/rhg/book) - 青木峰郎
+* [Ruby ソースコード完全解説](https://i.loveruby.net/ja/rhg/book/) - 青木峰郎
 * [Ruby リファレンスマニュアル](https://www.ruby-lang.org/ja/documentation) - まつもとゆきひろ
 * [Ruby 基礎文法最速マスター](https://route477.net/d/?date=20100125) - yhara
 * [TremaでOpenFlowプログラミング](https://yasuhito.github.io/trema-book) - 高宮安仁, 鈴木一哉, 松井暢之, 村木暢哉, 山崎泰宏
-* [お気楽 Ruby プログラミング入門](http://www.nct9.ne.jp/m_hiroi/light/ruby.html) - 広井誠
+* [お気楽 Ruby プログラミング入門](https://web.archive.org/web/20260207120226/https://www.nct9.ne.jp/m_hiroi/light/ruby.html) - 広井誠 *( :card_file_box: archived)*
 * [つくって学ぶプログラミング言語 RubyによるScheme処理系の実装](https://tatsu-zine.com/books/scheme-in-ruby) - 渡辺昌寛
 * [ホワイの(感動的)Rubyガイド](http://www.aoky.net/articles/why_poignant_guide_to_ruby) - why the lucky stiff, `trl:` 青木靖
 * [実用的Rubyスクリプティング](https://www.gentei.org/~yuuji/support/sr/scrp-2020-05.pdf) - 広瀬雄二 (PDF)

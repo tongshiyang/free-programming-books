@@ -22,7 +22,7 @@ This page is available as an easy-to-read website. Access it by clicking on [![h
 
 ## Intro
 
-This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
+This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/https://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
 
 The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://octoverse.github.com/).
 
@@ -80,7 +80,6 @@ This project lists books and other resources grouped by genres:
 #### Other Languages
 
 + [Arabic / al arabiya / العربية](books/free-programming-books-ar.md)
-+ [Armenian / Հայերեն](books/free-programming-books-hy.md)
 + [Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي](books/free-programming-books-az.md)
 + [Bengali / বাংলা](books/free-programming-books-bn.md)
 + [Bulgarian / български](books/free-programming-books-bg.md)
@@ -122,6 +121,7 @@ This project lists books and other resources grouped by genres:
 + [Turkish / Türkçe](books/free-programming-books-tr.md)
 + [Ukrainian / Українська](books/free-programming-books-uk.md)
 + [Urdu / اردو](books/free-programming-books-ur.md)
++ [Uzbek / Oʻzbekcha / Ўзбекча](books/free-programming-books-uz.md)
 + [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
 
 ### Cheat Sheets
@@ -220,6 +220,7 @@ Write, compile, and run your code within a browser. Try it out!
 + [Chinese / 中文](more/free-programming-playgrounds-zh.md)
 + [English](more/free-programming-playgrounds.md)
 + [German / Deutsch](more/free-programming-playgrounds-de.md)
++ [Russian / Русский](more/free-programming-playgrounds-ru.md)
 
 ## Translations
 

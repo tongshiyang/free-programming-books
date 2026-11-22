@@ -1,6 +1,6 @@
-### Cодержание
+### Содержание
 
-* [Дизайн и Aрхитектура](#design-architecture)
+* [Дизайн и Архитектура](#design-architecture)
 * [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
@@ -22,16 +22,17 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [SQL](#sql)
 
 
 ### Уровни
 
-BEG - Hовичок. Основы.    
-INT - Cредний. Расширенные возможности.    
+BEG - Новичок. Основы.    
+INT - Средний. Расширенные возможности.    
 ADV - Продвинутый. Тонкости.
 
 
-### <a id="design-architecture"></a>Дизайн и Aрхитектура
+### <a id="design-architecture"></a>Дизайн и Архитектура
 
 * [Туториал по SOLID](https://ota-solid.now.sh) - Саша Беспоясов и Артём Самофалов (INT)
 
@@ -193,3 +194,9 @@ ADV - Продвинутый. Тонкости.
 
 * [Введение в Rust](https://stepik.org/course/228001) - Stepik (BEG)
 * [Rust: Начальный уровень](https://stepik.org/course/195449) - Stepik (BEG)
+
+
+### SQL
+
+* [JOIN в SQL простым языком](https://stepik.org/course/302901) - Илья Калакуцкий (Stepik) (BEG)
+* [SQL с нуля для начинающих](https://stepik.org/course/302924) - Илья Калакуцкий (Stepik) (BEG)

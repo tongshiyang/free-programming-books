@@ -130,7 +130,7 @@
 
 * [Apps programmieren für iPhone und iPad](http://openbook.rheinwerk-verlag.de/apps_programmieren_fuer_iphone_und_ipad) - Klaus M. Rodewig, Clemens Wagner (Online)
 * [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)
-* [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf) - Daniel H. Steinberg, Eric T. Freeman (PDF)
+* [iPad-Programmierung](https://web.archive.org/web/20250507071057/http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf) - Daniel H. Steinberg, Eric T. Freeman (PDF) *( :card_file_box: archived)*
 
 
 ### Java
@@ -140,6 +140,7 @@
 * [Java 7 Mehr als eine Insel](http://openbook.rheinwerk-verlag.de/java7) - Christian Ullenboom (Online)
 * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel) - Christian Ullenboom (Online)
 * [Java SE 8 Standard-Bibliothek](http://openbook.rheinwerk-verlag.de/java8) - Christian Ullenboom (Online)
+* [Java Standard](https://de.wikibooks.org/wiki/Java_Standard) - Wikibooks (HTML)
 * [Java Tutorial - Java lernen leicht gemacht](https://web.archive.org/web/20230805211306/https://java-tutorial.org/index.php) - Björn und Britta Petri *( :card_file_box: archived)*
 * [Nebenläufige Programmierung mit Java](https://www.assets.dpunkt.de/openbooks/Hettel_Nebenlaeufige%20Programmierung%20mit%20Java_Broschuere.pdf) - Jörg Hettel und Manh Tien Tran (PDF)
 * [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau) - Boris Schäling (HTML)
@@ -162,7 +163,7 @@
 ### LaTeX
 
 * [LaTeX - eine Einführung und ein bisschen mehr ...](https://www.fernuni-hagen.de/zdi/docs/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF)
-* [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](https://www.fernuni-hagen.de/zdi/docs/a027_latex_fort.pdf) - Manuela Jürgens (PDF)
+* [LaTeX - Fortgeschrittene Anwendungen (oder: Neues von den Hobbits)](https://www.fernuni-hagen.de/zdi/docs/a027_latex_fort.pdf) - Manuela Jürgens (PDF)
 * [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz) - Herbert Voß (PDF)
 
 
@@ -184,14 +185,14 @@
 
 ### Neo4j
 
-* [Neo4j 2.0 – Eine Graphdatenbank für alle](https://neo4j.com/neo4j-graphdatenbank-book) - Michael Hunger (PDF) *(email requested)*
+* [Neo4j 2.0 – Eine Graphdatenbank für alle](https://web.archive.org/web/20230225180741/https://neo4j.com/neo4j-graphdatenbank-book/) - Michael Hunger (PDF) *(email requested)* *( :card_file_box: archived)*
 
 
 ### PHP
 
 * [PHP](http://www.peterkropff.de/site/php/php.htm) - Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
 * [PHP PEAR](http://openbook.rheinwerk-verlag.de/php_pear) - Carsten Möhrke (Online)
-* [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) - Sascha Kersken (PDF)
+* [Praktischer Einstieg in MySQL mit PHP](https://web.archive.org/web/20250705000713/http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) - Sascha Kersken (PDF) *( :card_file_box: archived)*
 
 
 #### Joomla

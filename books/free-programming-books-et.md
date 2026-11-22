@@ -1,8 +1,6 @@
 ### Index
 
-* [Algoritmid ja andmestruktuurid](#algoritmid-ja-andmestruktuurid)
 * [C](#c)
-* [C#](#csharp)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
@@ -15,19 +13,9 @@
 * [WebGL](#webgl)
 
 
-### Algoritmid ja andmestruktuurid
-
-* [Algoritmid ja andmestruktuurid (2003, Kolmas, parandatud ja täiendatud trükk)](https://dspace.ut.ee/bitstream/handle/10062/16872/9985567676.pdf) - Jüri Kiho (PDF)
-
-
 ### C
 
 * [Programmeerimiskeel C](https://et.wikibooks.org/wiki/Programmeerimiskeel_C) - Wikiõpikud
-
-
-### <a id="csharp"></a>C\#
-
-* [Microsoft Visual Studio Code ja C#](https://digiarhiiv.ut.ee/Ained/Doc/VFailid/CSharp_ja_VS.pdf) - Kalle Remm (PDF)
 
 
 ### Java
@@ -43,7 +31,7 @@
 
 #### AngularJS
 
-* [AngularJS raamistiku õppematerjal](https://www.cs.tlu.ee/teemad/get_file.php?id=400) - Sander Leetus (PDF)
+* [AngularJS raamistiku õppematerjal](https://web.archive.org/web/20240217030757/http://www.cs.tlu.ee/teemad/get_file.php?id=400) - Sander Leetus (PDF) *( :card_file_box: archived)*
 
 
 #### Vue.js
@@ -76,10 +64,9 @@
 
 ### SQL
 
-* [Andmebaaside alused](https://enos.itcollege.ee/~priit/1.%20Andmebaasid/1.%20Loengumaterjalid) - Priit Raspel (HTML)
 * [SQL päringute koostamine, analüüsimine  ja optimeerimine](https://comserv.cs.ut.ee/home/files/Ivanova_Informaatika_2017.pdf?study=ATILoputoo&reference=C408CC06DE4620A985CDF60C2678C97AE45017AB) - Anastassia Ivanova (PDF)
 
 
 ### WebGL
 
-* [WebGL'i kasutamine interaktiivsete graafikarakenduste loomiseks veebilehitsejas](http://www.cs.tlu.ee/teemaderegister/get_file.php?id=351) - Raner Piibur (PDF)
+* [WebGL'i kasutamine interaktiivsete graafikarakenduste loomiseks veebilehitsejas](https://web.archive.org/web/20260807161735/http://www.cs.tlu.ee/teemaderegister/get_file.php?id=351) - Raner Piibur (PDF) *( :card_file_box: archived)*
